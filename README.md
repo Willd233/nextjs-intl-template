@@ -80,6 +80,7 @@ The project is pre-configured for English (`en`) and Spanish (`es`).
 
 ### Key File Structure
 
+```
 your-project/
 ├── .next/ # Next.js build output (automatically generated)
 ├── node_modules/ # Project dependencies (automatically generated)
@@ -104,6 +105,7 @@ your-project/
 ├── package.json # Project metadata and scripts
 ├── README.md # Project documentation (this file!)
 └── tsconfig.json # TypeScript configuration
+```
 
 ### How It Works
 
