@@ -1,0 +1,33 @@
+.container {
+  padding: 0 5rem;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  width: 100vw;
+  height: 100vh;
+}
+
+.title {
+  margin: 0;
+  font-size: 3.5rem;
+}
+
+.text {
+  width: 60vw;
+}
+
+.button {
+  padding: 0.5rem 3rem;
+  background-color: rgb(194, 88, 74);
+  border-style: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: all 0.3s ease-out;
+
+  &:hover {
+    background-color: rgba(194, 88, 74, 0.4);
+  }
+}
