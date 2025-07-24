@@ -81,7 +81,7 @@ The project is pre-configured for English (`en`) and Spanish (`es`).
 ### Key File Structure
 
 ```
-your-project/
+nextjs-intl-template/
 ├── .next/ # Next.js build output (automatically generated)
 ├── node_modules/ # Project dependencies (automatically generated)
 ├── public/ # Static assets (images, fonts, etc.)
